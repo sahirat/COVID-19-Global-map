@@ -4,6 +4,8 @@
 
 3D visualization of latest data regarding coronavirus cases with time travel.
 
+hosted on netlify :https://covid19globalmap-bysahirat.netlify.app/
+
 ![demo](https://i.imgur.com/yUxIINE.gif)
 
 ## 🛠 Installing
